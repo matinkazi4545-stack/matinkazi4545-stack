@@ -1,1 +1,1 @@
-(http://127.0.0.1:5501/Portfolio.html)
+https://dulcet-buttercream-8bd653.netlify.app
